@@ -1,7 +1,4 @@
 # MoneyPrinterTurbo 💸
-
-[Chinese 简体中文](README.md)
-
 > Thanks to [RootFTW](https://github.com/Root-FTW) for the translation
 
 
